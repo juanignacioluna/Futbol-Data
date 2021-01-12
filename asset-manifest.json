@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Futbol-Data/static/css/main.073fbc90.chunk.css",
+    "main.js": "/Futbol-Data/static/js/main.d59aa0a9.chunk.js",
+    "main.js.map": "/Futbol-Data/static/js/main.d59aa0a9.chunk.js.map",
+    "runtime-main.js": "/Futbol-Data/static/js/runtime-main.ff45c4f6.js",
+    "runtime-main.js.map": "/Futbol-Data/static/js/runtime-main.ff45c4f6.js.map",
+    "static/js/2.99e107cc.chunk.js": "/Futbol-Data/static/js/2.99e107cc.chunk.js",
+    "static/js/2.99e107cc.chunk.js.map": "/Futbol-Data/static/js/2.99e107cc.chunk.js.map",
+    "index.html": "/Futbol-Data/index.html",
+    "precache-manifest.7acff60d4653c879ee11e597c386e0dc.js": "/Futbol-Data/precache-manifest.7acff60d4653c879ee11e597c386e0dc.js",
+    "service-worker.js": "/Futbol-Data/service-worker.js",
+    "static/css/main.073fbc90.chunk.css.map": "/Futbol-Data/static/css/main.073fbc90.chunk.css.map",
+    "static/js/2.99e107cc.chunk.js.LICENSE.txt": "/Futbol-Data/static/js/2.99e107cc.chunk.js.LICENSE.txt",
+    "static/media/alemania.svg": "/Futbol-Data/static/media/alemania.85f98c37.svg",
+    "static/media/equipos.png": "/Futbol-Data/static/media/equipos.87e4c3aa.png",
+    "static/media/espana.svg": "/Futbol-Data/static/media/espana.e511dcee.svg",
+    "static/media/francia.svg": "/Futbol-Data/static/media/francia.2f9befe9.svg",
+    "static/media/goleadores.png": "/Futbol-Data/static/media/goleadores.85545a94.png",
+    "static/media/inglaterra.svg": "/Futbol-Data/static/media/inglaterra.d14795a9.svg",
+    "static/media/italia.svg": "/Futbol-Data/static/media/italia.41b03921.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff45c4f6.js",
+    "static/js/2.99e107cc.chunk.js",
+    "static/css/main.073fbc90.chunk.css",
+    "static/js/main.d59aa0a9.chunk.js"
+  ]
+}
